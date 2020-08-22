@@ -4,12 +4,6 @@ A stopwatch app built with React and Styled components for learning purposes.
 
 ## Project setup
 
-### Clone repository
-
-```sh
-git clone https://github.com/awesomeyinka/react-stopwatch.git
-```
-
 ### Install dependencies
 
 ```sh
